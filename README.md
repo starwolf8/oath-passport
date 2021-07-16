@@ -15,7 +15,7 @@
   </a>
 </p>
 
-## 🚀 How to use
+## 🚀 How to use this native-react app
 
 - Install packages with `yarn` or `npm install`.
   - If you have native iOS code run `npx pod-install`
